@@ -1,0 +1,2 @@
+Implement google+ support via text parsing?
+Look at: ConversationInformationUpdater.kt, MessageListFragment.kt, MessageInstanceManager.kt
